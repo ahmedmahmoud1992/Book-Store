@@ -1,0 +1,17 @@
+.leftLine, .rightLine {
+    width: 45%;
+    height: 1px;
+    background-color: var(--mainColor);
+}
+
+.or {
+    color: var(--mainColor);
+}
+
+.privacyBtn {
+    border: none;
+    background: no-repeat;
+    text-decoration: underline;
+    padding: 0px;
+    margin-left: 5px;
+}
